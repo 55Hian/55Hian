@@ -5,6 +5,4 @@
 - 📫 Entre em contato pelo email: Contato.hian@outlook.com
 - 😄 Pronouns: ele/dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=55Hian&show_icons=true&theme=transparent)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=55Hian)](https://github.com/55Hian/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=55Hian&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=55Hian&layout=compact)

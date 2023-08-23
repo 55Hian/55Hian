@@ -1,29 +1,31 @@
-### Olá, eu sou o Hian A. Damaceno
 
-- 🌱 Estudando Java, Python
-- 💬 Posso te ajudar com microcontroladores
-- 📫 Entre em contato pelo email: Contato.hian@outlook.com
+<div align = "center">
+<h1>Olá, eu sou o Hian A. Damaceno</h1
 
-
-<div>
+🌱 Estudando Java, Python
+  💬 Posso te ajudar com microcontroladores
+  📫 Entre em contato pelo email: Contato.hian@outlook.com
+ </div>
+ 
+<div align = "center">
   <a href="https://github.com/55Hian">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=55Hian&show_icons=true&theme=transparent">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=55Hian&layout=compact&langs-count=168&theme=transparent">
   </a>
 </div>
 
-<div style= "display: inline_block"><br>
+<div align="center"><br>
   <a href="https://github.com/55Hian"> 
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> 
   </div>
-<div style= "display: inline_block"><br>
+<div align="center"><br>
   <a href="https://github.com/55Hian">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
   </a>
 </div>
 
-<div style= "display: inline_block"><br>
+<div align="center"><br>
   <a href="https://github.com/55Hian">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">       
@@ -32,7 +34,7 @@
   </a>
 </div>
 
-<div style= "display: inline_block"><br>
+<div align="center"><br>
   <a href="https://github.com/55Hian">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  

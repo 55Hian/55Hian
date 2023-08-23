@@ -11,11 +11,7 @@
   </a>
 </div>
 
-<div style="
-  display: inline_block
-  align: center"
-  >
-  <br>
+<div style= "display: inline_block"><br>
  
 
   

@@ -11,7 +11,11 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="
+  display: inline_block
+  align: center"
+  >
+  <br>
  
 
   
@@ -34,6 +38,5 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">       
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">       
-
-          
+      
 </div>

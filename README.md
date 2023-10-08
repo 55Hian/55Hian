@@ -2,6 +2,7 @@
 <div align = "center">
 <h1>Olá, eu sou o Hian A. Damaceno</h1
 <br>
+![](https://komarev.com/ghpvc/?username=your-github-u&55Hianlor=green)
 
   🌱 Estudando Java, Python
   

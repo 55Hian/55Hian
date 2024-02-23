@@ -1,10 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-55hian&color=green)
 
-<div align = "Right">
-  <a href="https://br.linkedin.com/in/hian-a-damaceno"> <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-</div>
-
 <div align = "left">
   
 <h3>Ola!</h3>
@@ -17,6 +13,10 @@
   
   📫 Entre em contato pelo email: Contato.hian@outlook.com
   <br>
+
+  <div align = "Right">
+  <a href="https://br.linkedin.com/in/hian-a-damaceno"> <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+</div>
   
  </div>  
 

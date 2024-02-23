@@ -56,6 +56,11 @@
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   </a>
  </div>
+ 
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=55Hian&theme=transparent&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat&card_width=560" alt="GitHub Streak">
+  </a>
+</div>
 
-                           
 

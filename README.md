@@ -7,7 +7,7 @@
   <p>Prazer, me chamo Hian, tenho 23 Anos, trabalho com automação e governanças na VR e estou no 6° semestre da graduação em Engenharia da Computação no Centro Universitario Senac. Sou Técnico em Eletroeletronica, formado pelo SENAI em 2019 e Desenvolvedor Front-end, formado pelo programa Ford < ENTER > em 2023.</p>
   <p>Gosto muito de inovar! Reúno mais de 3 anos de atuação na área de serviços, com ênfase para as áreas de telecomunicação e fornecimento de energia elétrica, tenho projetos elaborados para empresas de todo o território brasileiro. Adquiri experiencia consistente em áreas correlatas a elaboração de projetos, a qual dediquei boa parte da minha carreira. Tenho um interesse especial pela possibilidade de criar novas tecnologias e encontrar soluções diferentes nos mais diversos processos. </p>
 
-  🌱 Estudando ServiceNow
+  🌱 Estudando ServiceNow e UIPath
   
   💬 Posso te ajudar com automação de processos
   
